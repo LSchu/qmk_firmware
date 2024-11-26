@@ -50,10 +50,6 @@ enum custom_keycodes {
 // ~
 #define M_TILDE LALT(KC_N)
 
-
-
-
-
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 /* QWERTZ
